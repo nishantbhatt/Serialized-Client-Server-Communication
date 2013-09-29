@@ -1,7 +1,7 @@
 Serialized-Client-Server-Communication
 ======================================
 
-Distributed Systems - Assignment 3 Question 2:
+Distributed Systems
 
 Question:
 
